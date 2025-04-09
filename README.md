@@ -1,4 +1,7 @@
 # dddd-red
+<p align="center">
+  <img src="assets/logo.png" alt="DDDD Logo" width="200">
+</p>
 一款高可拓展的指纹识别、供应链漏洞探测工具。
 原项目：https://github.com/SleepingBag945/dddd
 
