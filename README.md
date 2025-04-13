@@ -10,6 +10,7 @@
 - 新增参数-app（指定外带POC文件夹的路径）和-st（指纹与POC名称相似度阈值(0-1) 默认0.7)
 ![image](https://github.com/kk12-30/dddd-red/blob/main/1.png)
 
-![image](https://github.com/你的用户名/你的仓库名/blob/分支名/图片路径)
+![image](https://github.com/kk12-30/dddd-red/blob/main/2.png)
+![image](https://github.com/kk12-30/dddd-red/blob/main/3.png)
 
 
