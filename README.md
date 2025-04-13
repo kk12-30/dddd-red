@@ -11,6 +11,7 @@
 - allpoc文件夹下可设置以指纹名称为名的子文件，匹配到该指纹会在该文件夹中获取POC；在”ALL“子文件中放置POC所有请求都会测试该文件夹下的POC
 - 新增参数-app（指定外带POC文件夹的路径，默认使用同目录下的config文件夹配置）和-st（指纹与POC名称相似度阈值(0-1) 默认0.7)
 - POC错误检测，对存在错误的yaml会提示并跳过
+- 添加最新POC和指纹
 ![image](https://github.com/kk12-30/dddd-red/blob/main/1.png)
 ![image](https://github.com/kk12-30/dddd-red/blob/main/2.png)
 ![image](https://github.com/kk12-30/dddd-red/blob/main/4.png)
