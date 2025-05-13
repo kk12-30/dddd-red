@@ -12,7 +12,7 @@
 - 新增参数-app（指定外带POC文件夹的路径，默认使用同目录下的config文件夹配置）和-st（指纹与POC名称相似度阈值(0-1) 默认0.7)
 - POC错误检测，对存在错误的yaml会提示并跳过
 - 添加最新POC和指纹
-- 新增黑名单指纹配置
+- 新增黑名单指纹配置（blackfinger.yaml）
 ![image](https://github.com/kk12-30/dddd-red/blob/main/1.png)
 ![image](https://github.com/kk12-30/dddd-red/blob/main/2.png)
 ![image](https://github.com/kk12-30/dddd-red/blob/main/4.png)
