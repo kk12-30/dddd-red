@@ -17,4 +17,6 @@
 ![image](https://github.com/kk12-30/dddd-red/blob/main/2.png)
 ![image](https://github.com/kk12-30/dddd-red/blob/main/4.png)
 
+# 更新V1.2
+添加最新指纹和POC（2025.5）
 
