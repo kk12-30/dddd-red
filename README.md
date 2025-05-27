@@ -2,7 +2,7 @@
 一款高可拓展的指纹识别、供应链漏洞探测工具。
 原项目：https://github.com/SleepingBag945/dddd
 
-获取：https://pc.fenchuan8.com/#/index?forum=99314
+加入纷传圈子获取：https://pc.fenchuan8.com/#/index?forum=99314
 
 You can purchase the linked item to get it：https://afdian.com/item/85f8e5443ad011f0b2475254001e7c00
 
