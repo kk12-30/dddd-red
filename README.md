@@ -3,9 +3,10 @@
 原项目：https://github.com/SleepingBag945/dddd
 
 获取：https://pc.fenchuan8.com/#/index?forum=99314
+Purchase link：https://afdian.com/item/85f8e5443ad011f0b2475254001e7c00
 
 # 逻辑重构V1.1
-原工具添加POC的逻辑需要从workflow工作流添加指纹和POC名称十分繁琐故重新设计了POC扫描逻辑，便于随时添加POC和指纹
+原工具添加POC的逻辑需要从workflow工作流添加指纹和POC名称十分繁琐故重新设计了POC扫描逻辑，便于随时添加POC和指纹（The logic of adding a POC in the original tool requires adding a fingerprint and POC name from the workflow workflow, which is very cumbersome, so the POC scanning logic has been redesigned to facilitate the addition of POC and fingerprint at any time）
 - 配置文件在本目录下的config文件夹，工具会优先从该文件夹下的配置文件中读取，若不存在配置文件会使用自身原有的配置
 - config目录下的allpoc文件夹为新增的外带POC配置，默认会从该文件夹中通过相似度去匹配指纹对应的POC后合并在原有的POC列表（若不使用外带POC可将该文件夹重新命名）
 - allpoc文件夹下可设置以指纹名称为名的子文件，匹配到该指纹会在该文件夹中获取POC；在”ALL“子文件中放置POC所有请求都会测试该文件夹下的POC
