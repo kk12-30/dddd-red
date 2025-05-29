@@ -31,8 +31,13 @@ You can purchase the linked item to get it：https://afdian.com/item/85f8e5443ad
 
 2、优化POC扫描逻辑，减少重复的POC扫描
 
-3、修改spring-poc为全局POC
+3、修改spring常见漏洞为全局POC
 
 4、为了进一步支持高度自定义，将工具的内置字典全部放置config目录中可自由修改
 
 5、添加最新指纹和POC
+
+6、优化主动指纹识别的逻辑
+
+7、使用-nb参数可跳过服务爆破，适合大规模快速打点
+
