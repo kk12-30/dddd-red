@@ -22,3 +22,9 @@ You can purchase the linked item to get it：https://afdian.com/item/85f8e5443ad
 # 更新V1.2
 添加最新指纹和POC（2025.5）
 
+# 更新V1.3
+1、新增Web爬虫功能，对爬虫到的路径进行指纹识别并使用poc，增大对组件型nday扫描的准确性
+2、优化POC扫描逻辑，减少重复的POC扫描
+3、修改spring-poc为全局POC
+4、为了进一步支持高度自定义，将工具的内置字典全部放置config目录中可自由修改
+5、添加最新指纹和POC
