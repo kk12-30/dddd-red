@@ -23,7 +23,7 @@ You can purchase the linked item to get it：https://afdian.com/item/85f8e5443ad
 添加最新指纹和POC（2025.5）
 
 # 更新V1.3
-1、新增Web爬虫功能，对爬虫到的路径进行指纹识别并使用poc，增大对组件型nday扫描的准确性
+1、新增Web爬虫功能，对爬虫到的路径URL进行指纹识别并使用poc，增大对组件型nday扫描的全面性
 
 -js：启用无头浏览器模式进行爬取
 
