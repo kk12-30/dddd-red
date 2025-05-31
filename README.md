@@ -41,3 +41,5 @@ You can purchase the linked item to get it：https://afdian.com/item/85f8e5443ad
 
 7、使用-nb参数可跳过服务爆破，适合大规模快速打点
 
+# 更新V1.4
+1、优化原gopoc爆破模块所有代码，新增进度条
