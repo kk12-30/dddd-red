@@ -42,4 +42,9 @@ You can purchase the linked item to get it：https://afdian.com/item/85f8e5443ad
 7、使用-nb参数可跳过服务爆破，适合大规模快速打点
 
 # 更新V1.4
-1、优化原gopoc爆破模块所有代码，新增进度条
+1、优化原gopoc爆破模块所有代码，支持未授权检测，新增进度条
+
+# 更新V1.5
+1、支持window模式下syn端口快速扫描模式
+
+2、新增-hw参数，跳过默认POC适合大规模资产快速打点
