@@ -45,6 +45,6 @@ You can purchase the linked item to get it：https://afdian.com/item/85f8e5443ad
 1、优化原gopoc爆破模块所有代码，支持未授权检测，新增进度条
 
 # 更新V1.5
-1、支持window模式下syn端口快速扫描模式
+1、支持window模式下syn端口快速扫描模式  dddd.exe -t IP -sct syn -mr 3000
 
-2、新增-hw参数，跳过默认POC适合大规模资产快速打点
+2、新增-hw参数，跳过默认POC适合大规模资产快速打点 dddd.exe -t IP -hw
