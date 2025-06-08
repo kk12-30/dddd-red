@@ -48,3 +48,5 @@ You can purchase the linked item to get it：https://afdian.com/item/85f8e5443ad
 1、支持window模式下syn端口快速扫描模式  dddd.exe -t IP -sct syn -mr 3000
 
 2、新增-hw参数，跳过默认POC且自动禁用Golang Poc扫描和服务爆破，适合大规模资产快速打点 dddd.exe -t IP -hw
+
+3、最新POC、指纹更新
