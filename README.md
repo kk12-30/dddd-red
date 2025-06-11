@@ -50,3 +50,6 @@ You can purchase the linked item to get it：https://afdian.com/item/85f8e5443ad
 2、新增-hw参数，跳过默认POC且自动禁用Golang Poc扫描和服务爆破，适合大规模资产快速打点 dddd.exe -t IP -hw
 
 3、最新POC、指纹更新
+
+# 更新V2.0（beta）
+1、RUST代码重构
