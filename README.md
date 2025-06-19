@@ -2,6 +2,8 @@
 一款高可拓展的指纹识别、供应链漏洞探测工具。
 原项目：https://github.com/SleepingBag945/dddd
 
+https://mp.weixin.qq.com/s/39o7yRixuz9bBF1nRBtd0Q
+
 加入纷传圈子获取：https://pc.fenchuan8.com/#/index?forum=99314
 
 You can purchase the linked item to get it：https://afdian.com/item/85f8e5443ad011f0b2475254001e7c00
@@ -51,5 +53,5 @@ You can purchase the linked item to get it：https://afdian.com/item/85f8e5443ad
 
 3、最新POC、指纹更新
 
-# 更新V2.0（beta）
-1、RUST代码重构
+# 更新dddd-rustV1.1
+https://mp.weixin.qq.com/s/39o7yRixuz9bBF1nRBtd0Q
