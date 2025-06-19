@@ -7,8 +7,6 @@ https://mp.weixin.qq.com/s/39o7yRixuz9bBF1nRBtd0Q
 
 加入纷传圈子获取：https://pc.fenchuan8.com/#/index?forum=99314
 
-You can purchase the linked item to get it：https://afdian.com/item/85f8e5443ad011f0b2475254001e7c00
-
 # 逻辑重构V1.1
 原工具添加POC的逻辑需要从workflow工作流添加指纹和POC名称十分繁琐故重新设计了POC扫描逻辑，便于随时添加POC和指纹（The logic of adding a POC in the original tool requires adding a fingerprint and POC name from the workflow workflow, which is very cumbersome, so the POC scanning logic has been redesigned to facilitate the addition of POC and fingerprint at any time）
 - 配置文件在本目录下的config文件夹，工具会优先从该文件夹下的配置文件中读取，若不存在配置文件会使用自身原有的配置
