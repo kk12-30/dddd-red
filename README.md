@@ -58,6 +58,7 @@ https://mp.weixin.qq.com/s/39o7yRixuz9bBF1nRBtd0Q
 2、新增100+POC
 
 3、优化gopoc爆破功能
+![image](https://github.com/kk12-30/dddd-red/blob/main/1750822165030.jpg)
 
 # 更新dddd-rustV1.2
 https://mp.weixin.qq.com/s/39o7yRixuz9bBF1nRBtd0Q
