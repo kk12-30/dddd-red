@@ -65,8 +65,17 @@ https://mp.weixin.qq.com/s/N2C3ddxV4IcOWMZIjOmR5A
 
 # 更新V2.4
 1、参考gogo启发式扫描，快速发现大型网段存活ip  dddd.exe -t 192.168.1.1/16 -sm
+
 2、新增hvvPOC
+
 3、修复已知bug
+
+# 更新V2.5
+1、新增指纹
+
+2、修复已知bug
+
+3、优化启发式扫描
 
 # 更新dddd-rustV2.0
 https://mp.weixin.qq.com/s/39o7yRixuz9bBF1nRBtd0Q
