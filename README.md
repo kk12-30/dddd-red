@@ -1,5 +1,5 @@
-# 最新版本：dddd-redV2.0(Go语言)  
-# 最新版本：dddd-rustV1.2(Rust语言)
+# 最新版本：dddd-redV2.4(Go语言)  
+# 最新版本：dddd-rustV2.0(Rust语言)
 一款高可拓展的指纹识别、供应链漏洞探测工具。
 原项目：https://github.com/SleepingBag945/dddd
 
@@ -63,5 +63,11 @@ https://mp.weixin.qq.com/s/39o7yRixuz9bBF1nRBtd0Q
 # V2.0 全新web管理界面
 https://mp.weixin.qq.com/s/N2C3ddxV4IcOWMZIjOmR5A
 
-# 更新dddd-rustV1.2
+# 更新V2.4
+1、参考gogo启发式扫描，快速发现大型网段存活ip  dddd.exe -t 192.168.1.1/16 -sm
+2、新增hvvPOC
+3、修复已知bug
+
+# 更新dddd-rustV2.0
 https://mp.weixin.qq.com/s/39o7yRixuz9bBF1nRBtd0Q
+1、新增指纹模糊匹配POC功能
