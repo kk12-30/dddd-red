@@ -76,6 +76,9 @@ https://mp.weixin.qq.com/s/N2C3ddxV4IcOWMZIjOmR5A
 
 3、优化启发式扫描
 
+# 更新v2.6
+增加POC文件索引大幅提升POC匹配速度、新增-det参数（简单探测模式，仅使用/config/allpoc/ALL目录下的POC进行扫描，并关闭workflow的POC扫描，建议使用参数-det -nd）、优化子域名爆破、优化proxy代理
+
 # 更新dddd-rustV2.0
 https://mp.weixin.qq.com/s/39o7yRixuz9bBF1nRBtd0Q
 
