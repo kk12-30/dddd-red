@@ -1,7 +1,6 @@
 # 最新版本：dddd-redV2.4(Go语言)  
 # 最新版本：dddd-rustV2.0(Rust语言)
 一款高可拓展的指纹识别、供应链漏洞探测工具。
-原项目：https://github.com/SleepingBag945/dddd
 
 https://mp.weixin.qq.com/s/39o7yRixuz9bBF1nRBtd0Q
 
