@@ -1,5 +1,5 @@
 # 最新版本：dddd-redV2.7(Go语言)  
-# 最新版本：dddd-rustV2.0(Rust语言)
+# 最新版本：dddd-rustV2.1(Rust语言)
 一款高可拓展的指纹识别、供应链漏洞探测工具。
 
 https://mp.weixin.qq.com/s/39o7yRixuz9bBF1nRBtd0Q
@@ -78,6 +78,9 @@ https://mp.weixin.qq.com/s/N2C3ddxV4IcOWMZIjOmR5A
 
 # 更新v2.6
 增加POC文件索引大幅提升POC匹配速度、新增-det参数（简单探测模式，仅使用/config/allpoc/ALL目录下的POC进行扫描，并关闭workflow的POC扫描，建议使用参数-det -nd）、优化子域名爆破、优化proxy代理
+
+# 更新v2.7
+更新POC/指纹、新增资产报告excle导出功能
 
 # 更新dddd-rustV2.0
 https://mp.weixin.qq.com/s/39o7yRixuz9bBF1nRBtd0Q
