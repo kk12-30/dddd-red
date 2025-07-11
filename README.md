@@ -86,3 +86,15 @@ https://mp.weixin.qq.com/s/N2C3ddxV4IcOWMZIjOmR5A
 https://mp.weixin.qq.com/s/39o7yRixuz9bBF1nRBtd0Q
 
 1、新增指纹模糊匹配POC功能
+
+# 更新dddd-rustV2.1
+  - 自适应超时学习：根据网络环境自动调整超时参数
+  - 随机端口扫描顺序：降低被防火墙或IDS检测的概率
+  - 高效并发控制：智能管理并发连接，提高扫描效率
+  - 实时扫描速率显示：动态显示每秒扫描端口数
+
+-s指定端口并发数量（默认500）
+rust-dddd.exe -t 127.0.0.1 -s 1000
+--fingerprint-detection开启主动指纹识别功能（默认关闭）
+rust-dddd.exe -t 127.0.0.1 --fingerprint-detection
+如果需要按顺序扫描，可以使用--serial 参数
