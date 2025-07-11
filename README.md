@@ -93,6 +93,7 @@ https://mp.weixin.qq.com/s/39o7yRixuz9bBF1nRBtd0Q
   - 高效并发控制：智能管理并发连接，提高扫描效率
   - 实时扫描速率显示：动态显示每秒扫描端口数
 
+```javascript
 -s指定端口并发数量（默认500）
 rust-dddd.exe -t 127.0.0.1 -s 1000
 --fingerprint-detection开启主动指纹识别功能（默认关闭）
