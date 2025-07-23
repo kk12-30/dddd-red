@@ -1,5 +1,5 @@
-# 最新版本：dddd-redV2.7(Go语言)  
-# 最新版本：dddd-rustV2.1(Rust语言)
+# 最新版本：dddd-redV2.81(Go语言)  
+# 最新版本：dddd-rustV2.2(Rust语言)
 一款高可拓展的指纹识别、供应链漏洞探测工具。
 
 https://mp.weixin.qq.com/s/39o7yRixuz9bBF1nRBtd0Q
@@ -82,6 +82,12 @@ https://mp.weixin.qq.com/s/N2C3ddxV4IcOWMZIjOmR5A
 # 更新v2.7
 更新POC/指纹、新增资产报告excle导出功能
 
+# 更新v2.81
+修复已知bug，poc/指纹更新，新增下面的参数
+“   -af         自动对Nmap服务进行特定POC匹配和扫描，结果保存至Nmap.txt”
+“   -npoc2    关闭指纹模糊匹配POC的功能，只使用workflow的POC匹配逻辑”
+"   -gopoc     使用该参数时会将Golang Poc引擎的扫描放在Nuclei引擎扫描前面"
+
 # 更新dddd-rustV2.0
 https://mp.weixin.qq.com/s/39o7yRixuz9bBF1nRBtd0Q
 
@@ -92,6 +98,10 @@ https://mp.weixin.qq.com/s/39o7yRixuz9bBF1nRBtd0Q
   - 随机端口扫描顺序：降低被防火墙或IDS检测的概率
   - 高效并发控制：智能管理并发连接，提高扫描效率
   - 实时扫描速率显示：动态显示每秒扫描端口数
+
+# 更新dddd-rustV2.2
+修复已知bug
+
 
 ```javascript
 -s指定端口并发数量（默认500）
