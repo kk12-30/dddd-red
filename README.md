@@ -83,10 +83,12 @@ https://mp.weixin.qq.com/s/N2C3ddxV4IcOWMZIjOmR5A
 更新POC/指纹、新增资产报告excle导出功能
 
 # 更新v2.81
+```javascript
 修复已知bug，poc/指纹更新，新增下面的参数
 “   -af         自动对Nmap服务进行特定POC匹配和扫描，结果保存至Nmap.txt”
 “   -npoc2    关闭指纹模糊匹配POC的功能，只使用workflow的POC匹配逻辑”
 "   -gopoc     使用该参数时会将Golang Poc引擎的扫描放在Nuclei引擎扫描前面"
+```
 
 # 更新dddd-rustV2.0
 https://mp.weixin.qq.com/s/39o7yRixuz9bBF1nRBtd0Q
