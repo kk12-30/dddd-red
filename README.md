@@ -97,10 +97,12 @@ https://mp.weixin.qq.com/s/39o7yRixuz9bBF1nRBtd0Q
 1、新增指纹模糊匹配POC功能
 
 # 更新dddd-rustV2.1
+```javascript
   - 自适应超时学习：根据网络环境自动调整超时参数
   - 随机端口扫描顺序：降低被防火墙或IDS检测的概率
   - 高效并发控制：智能管理并发连接，提高扫描效率
   - 实时扫描速率显示：动态显示每秒扫描端口数
+```
 
 # 更新dddd-rustV2.2
 修复已知bug
