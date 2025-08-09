@@ -91,6 +91,15 @@ https://mp.weixin.qq.com/s/N2C3ddxV4IcOWMZIjOmR5A
 "   -det       简单探测模式 | 仅使用/config/allpoc/ALL目录下的POC进行扫描，并关闭所有的POC扫描"
 ```
 
+# 更新v3.0
+```javascript
+Web界面新增模块：
+定时任务(支持钉钉获取扫描结果，钉钉机器人Webhook地址的配置需要自行进行百度)
+POC管理（支持POC在线管理、选择指定POC进行扫描）
+新增2025hvv等大量POC
+新增参数可以指定web界面的密码：dddd-red.exe -web -password 123456。
+```
+
 # 更新dddd-rustV2.0
 https://mp.weixin.qq.com/s/39o7yRixuz9bBF1nRBtd0Q
 
