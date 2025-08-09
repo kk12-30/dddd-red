@@ -94,8 +94,9 @@ https://mp.weixin.qq.com/s/N2C3ddxV4IcOWMZIjOmR5A
 # 更新v3.0
 ```javascript
 Web界面新增模块：
-定时任务(支持钉钉获取扫描结果，钉钉机器人Webhook地址的配置需要自行进行百度)
-POC管理（支持POC在线管理、选择指定POC进行扫描）
+1：定时任务(支持钉钉获取扫描结果，钉钉机器人Webhook地址的配置需要自行进行百度)
+2：POC管理（支持POC在线管理、选择指定POC进行扫描）
+
 新增2025hvv等大量POC
 新增参数可以指定web界面的密码：dddd-red.exe -web -password 123456。
 ```
