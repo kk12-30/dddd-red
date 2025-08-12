@@ -101,6 +101,11 @@ Web界面新增模块：
 新增参数可以指定web界面的密码：dddd-red.exe -web -password 123456。
 ```
 
+# 更新v3.2
+```javascript
+优化POC管理，新增YAML模板文件AI生成功能
+```
+
 # 更新dddd-rustV2.0
 https://mp.weixin.qq.com/s/39o7yRixuz9bBF1nRBtd0Q
 
