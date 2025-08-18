@@ -110,7 +110,7 @@ Web界面新增模块：
 新增-nuclei参数（为了兼容v2/v3模板使用外置nuclei进行POC扫描dddd-red.exe -t 127.0.0.1 -nuclei）
 新增-add参数自定义添加nuclei使用参数（-nuclei -add "timeout 5,retries 2"）
 新增2025hvv POC
-新增YAML生成功能
+新增web界面YAML生成功能（AI生成）
 ```
 
 # 更新dddd-rustV2.0
