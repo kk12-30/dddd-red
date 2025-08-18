@@ -1,8 +1,8 @@
-# 最新版本：dddd-redV2.81(Go语言)  
+# 最新版本：dddd-redV3.5(Go语言)  
 # 最新版本：dddd-rustV2.2(Rust语言)
 一款高可拓展的指纹识别、供应链漏洞探测工具。
 
-https://mp.weixin.qq.com/s/39o7yRixuz9bBF1nRBtd0Q
+https://mp.weixin.qq.com/s/-iZ6VBUplFFW66Km4ZDWCA
 
 加入纷传圈子获取：https://pc.fenchuan8.com/#/index?forum=99314
 
@@ -104,6 +104,14 @@ Web界面新增模块：
 # 更新v3.2
 ```javascript
 优化POC管理，新增YAML模板文件AI生成功能
+```
+
+# 更新v3.5
+```javascript
+新增-nuclei参数（为了兼容v2/v3模板使用外置nuclei进行POC扫描dddd-red.exe -t 127.0.0.1 -nuclei）
+新增-add参数自定义添加nuclei使用参数（-nuclei -add "timeout 5,retries 2"）
+新增2025hvv POC
+新增YAML生成功能
 ```
 
 # 更新dddd-rustV2.0
