@@ -1,8 +1,16 @@
-# 最新版本：dddd-redV3.9(Go语言)  
+# 最新版本：dddd-redV4.0(Go语言)  
 基于原dddd工具二开：https://github.com/SleepingBag945/dddd
+- 支持联动 Tscan、Masscan 进行端口扫描
+- 支持使用外置nuclei引擎扫描，POC支持v2/v3的yaml格式
+- Web界面，图形化操作、支持AI生成yaml、POC和指纹在线管理、定时任务钉钉接受结果、
+- 指纹资产报告 Excel及HTML生成
+- 最新指纹POC
 
-# 最新版本：dddd-rustV2.2(Rust语言)
+
+# 最新版本：dddd-rustV2.3(Rust语言)
 https://mp.weixin.qq.com/s/GoRkDtQMmiTgsvfRedUziA
+- 基于dddd的工作流使用RUST语言重构，大幅度提高扫描速度
+
 
 
 # 免责声明
