@@ -1,4 +1,4 @@
-# 最新版本：dddd-redV4.3(Go语言)  
+# 最新版本：dddd-redV4.4(Go语言)  
 基于原dddd工具二开：https://github.com/SleepingBag945/dddd
 - 支持联动 Tscan、Masscan 进行端口扫描
 - 支持使用外置nuclei引擎扫描，POC支持v2/v3的yaml格式
