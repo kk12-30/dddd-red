@@ -3,7 +3,7 @@
 - 支持联动 Tscan、Masscan 进行端口扫描
 - 支持使用外置nuclei引擎扫描，POC支持v2/v3的yaml格式
 - Web界面，图形化操作、支持AI生成yaml、POC和指纹在线管理、定时任务钉钉接受结果、
-- 资产信息报告 Excel及HTML生成
+- 资产信息报告 Excel及HTML生成、攻击面整合e报告可直接交付
 - 最新指纹POC
 
 
@@ -13,6 +13,7 @@ https://mp.weixin.qq.com/s/GoRkDtQMmiTgsvfRedUziA
 
 ![image](https://github.com/kk12-30/dddd-red/blob/main/p1.png)
 ![image](https://github.com/kk12-30/dddd-red/blob/main/p2.png)
+![image](https://github.com/kk12-30/dddd-red/blob/main/p4.png)
 
 
 # 免责声明
