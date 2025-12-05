@@ -1,3 +1,6 @@
+# 停止维护—>
+#  https://github.com/kk12-30/Dscan
+
 # 最新版本：dddd-redV4.4(Go语言)  
 基于原dddd工具二开：https://github.com/SleepingBag945/dddd
 - 支持联动 Tscan、Masscan 进行端口扫描
